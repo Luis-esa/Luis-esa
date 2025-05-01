@@ -1,6 +1,7 @@
 # **Luis-esa**
 ### Olá! me chamo Luis Eduardo
 * 🏫 Cursando Sistema de Informação
+* 🛜 TI - infraestrutura 
 * 💻 Estudando back-end java
 * 👾 Fascinado por tecnologia 
 
